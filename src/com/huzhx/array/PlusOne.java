@@ -1,4 +1,4 @@
-package com.huzhx;
+package com.huzhx.array;
 
 import java.util.List;
 

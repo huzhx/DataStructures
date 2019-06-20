@@ -1,4 +1,4 @@
-package com.huzhx;
+package com.huzhx.array;
 
 // HighArray.java
 // demonstrates array class with high-level interface

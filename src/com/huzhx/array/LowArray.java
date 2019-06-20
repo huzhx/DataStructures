@@ -1,4 +1,4 @@
-package com.huzhx;
+package com.huzhx.array;
 
 // LowArray.java
 // demonstrates array class with low-level interface

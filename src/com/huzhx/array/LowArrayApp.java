@@ -1,4 +1,4 @@
-package com.huzhx;
+package com.huzhx.array;
 
 public class LowArrayApp {
     public static void main(String[] args) {
